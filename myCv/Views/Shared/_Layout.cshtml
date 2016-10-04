@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!-- If you see this, call me ;) -->
+
+
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")    
+
+    @Scripts.Render("~/bundles/functions")
+    
+</head>
+<body>
+    <header>
+        <div class="container">       
+            <h1>> Facundo L. Wasinger:<span class="blink">_</span></h1>            
+        </div>
+    </header>    
+    <div class="container">
+        <div class="main row row-eq-height">
+            @RenderBody()               
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

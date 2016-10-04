@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Facundo L. Wasinger";
+}
+    <div class="col-md-3 index">        
+        <div class="thumbnail">
+            <img class="perfil" src="~/Content/foto.jpg" />
+        </div>
+        <div>            
+            <ul id="ItemNav" class="code-main">                           
+                <li><span class="code-class">FacundoWasinger </span><span class="code-symbol">: </span><span class="code-class">Developer </span><span class="code-symbol">{</span></li>   
+                <li nameview="FacundoWasingerBlock"><span class="code-constructor">FacundoWasinger();</span></li>     
+                <li nameview="EducationBlock"><span class="code-class">Education </span>education<span class="code-symbol">;</span></li>
+                <li nameview="TechnologyBlock"><span class="code-class">Technology </span>tecnology<span class="code-symbol">;</span></li>
+                <li nameview="ExperienceBlock"><span class="code-class">Experience </span>experience<span class="code-symbol">;</span></li>
+                <li nameview="LenguageBlock"><span class="code-class">Lenguage </span>lenguage<span class="code-symbol">;</span></li>                
+                <li></li>
+                <li nameview="ContactBlock"><span class="code-type-return">void</span> Contact()<span class="code-symbol">;</span></li>
+                <li nameview="ViewAllBlock"><span class="code-type-return">CV</span> ViewAll()<span class="code-symbol">;</span></li>
+                <li id="PrintPDF"><span class="code-type-return">Paper</span> Print()<span class="code-symbol">;</span></li>
+                <li id="DownloadPDF"><span class="code-type-return">FileDPF</span> DownloadPDF()<span class="code-symbol">;</span></li>
+                <li id="LinkToGitHub"><span class="code-type-return">HTML</span> GitHub()<span class="code-symbol">;</span></li>
+                <li><span class="code-symbol">};</span></li>
+            </ul>            
+        </div>
+    </div>
+    <div id="PanelR" class="col-md-9">                  
+        @{ Html.RenderPartial("ViewAllBlock"); }
+    </div>
+
+    <iframe id="PrintPDF_frame" src="~/Content/CV-Facundo-Wasinger.pdf" width="0" height="0" style="display: none"></iframe>

@@ -1,0 +1,80 @@
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\csc.exe
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\System.Collections.Immutable.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\vbc.exe
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\VBCSCompiler.exe
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\roslyn\VBCSCompiler.exe.config
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\myCv.dll.config
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\myCv.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\myCv.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Antlr3.Runtime.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Microsoft.Web.Infrastructure.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Newtonsoft.Json.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Helpers.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Mvc.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Optimization.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Razor.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.WebPages.Deployment.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.WebPages.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.WebPages.Razor.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\WebGrease.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Helpers.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Mvc.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Optimization.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.Razor.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.WebPages.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.WebPages.Deployment.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\System.Web.WebPages.Razor.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Antlr3.Runtime.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\bin\Newtonsoft.Json.xml
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\obj\Debug\myCv.csprojResolveAssemblyReference.cache
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\obj\Debug\myCv.dll
+c:\users\facundo\documents\visual studio 2015\Projects\myCv\myCv\obj\Debug\myCv.pdb
+D:\myCv\myCv\bin\roslyn\csc.exe
+D:\myCv\myCv\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\myCv\myCv\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\myCv\myCv\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\myCv\myCv\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\myCv\myCv\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\myCv\myCv\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\myCv\myCv\bin\roslyn\System.Collections.Immutable.dll
+D:\myCv\myCv\bin\roslyn\System.Reflection.Metadata.dll
+D:\myCv\myCv\bin\roslyn\vbc.exe
+D:\myCv\myCv\bin\roslyn\VBCSCompiler.exe
+D:\myCv\myCv\bin\roslyn\VBCSCompiler.exe.config
+D:\myCv\myCv\bin\myCv.dll.config
+D:\myCv\myCv\bin\myCv.dll
+D:\myCv\myCv\bin\myCv.pdb
+D:\myCv\myCv\bin\Antlr3.Runtime.dll
+D:\myCv\myCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\myCv\myCv\bin\Microsoft.Web.Infrastructure.dll
+D:\myCv\myCv\bin\Newtonsoft.Json.dll
+D:\myCv\myCv\bin\System.Web.Helpers.dll
+D:\myCv\myCv\bin\System.Web.Mvc.dll
+D:\myCv\myCv\bin\System.Web.Optimization.dll
+D:\myCv\myCv\bin\System.Web.Razor.dll
+D:\myCv\myCv\bin\System.Web.WebPages.Deployment.dll
+D:\myCv\myCv\bin\System.Web.WebPages.dll
+D:\myCv\myCv\bin\System.Web.WebPages.Razor.dll
+D:\myCv\myCv\bin\WebGrease.dll
+D:\myCv\myCv\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\myCv\myCv\bin\System.Web.Helpers.xml
+D:\myCv\myCv\bin\System.Web.Mvc.xml
+D:\myCv\myCv\bin\System.Web.Optimization.xml
+D:\myCv\myCv\bin\System.Web.Razor.xml
+D:\myCv\myCv\bin\System.Web.WebPages.xml
+D:\myCv\myCv\bin\System.Web.WebPages.Deployment.xml
+D:\myCv\myCv\bin\System.Web.WebPages.Razor.xml
+D:\myCv\myCv\bin\Antlr3.Runtime.pdb
+D:\myCv\myCv\bin\Newtonsoft.Json.xml
+D:\myCv\myCv\obj\Debug\myCv.csprojResolveAssemblyReference.cache
+D:\myCv\myCv\obj\Debug\myCv.dll
+D:\myCv\myCv\obj\Debug\myCv.pdb
